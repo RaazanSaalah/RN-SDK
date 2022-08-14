@@ -22,4 +22,4 @@ import Test from "mytestpackagerr";
 ```sh
  <Test publicKey="PK_4545154545" clientSecret="cS_34" />
 ```
-# RN-SDK
+
